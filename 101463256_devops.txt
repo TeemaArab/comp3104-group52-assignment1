@@ -1,0 +1,5 @@
+devOps course focuses on the practices and principles of DevOps, an approach that blends software development (Dev) and IT operations (Ops). The goal is to shorten the systems development life cycle and deliver high-quality software continuously.
+
+In COMP 3104, students learn the importance of automating repetitive tasks and implementing continuous integration (CI) and continuous delivery (CD) pipelines. The course also covers topics like version control with Git, infrastructure as code, containerization, and monitoring applications in production.
+
+By the end of the course, students are expected to be able to apply DevOps practices to improve the collaboration between development and operations teams, reduce deployment time, and maintain software reliability.
