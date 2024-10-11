@@ -4,7 +4,7 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 shortening the software development lifecycle and providing 
 continuous delivery with high software quality.
 
-#The second Commits
+#The second Commit
 
 Key topics covered in COMP 3104 include:
 - Continuous Integration (CI) and Continuous Deployment (CD) pipelines
@@ -13,7 +13,15 @@ Key topics covered in COMP 3104 include:
 - Automation testing and monitoring tools
 - Cloud services for deployment
 
-#The Third Commits
+#The Third Commit
 
 The course emphasizes hands-on experience with tools and technologies that are widely used 
 in the industry, preparing students for roles in modern software development environments.
+
+#The Fourth Commit
+
+Real-World Applications of DevOps:
+DevOps practices are essential in modern software development, enhancing collaboration 
+between development and operations teams. This course equips students with the skills to 
+automate deployment, monitor application performance, and quickly recover from failures, 
+preparing them for effective roles in the industry.
