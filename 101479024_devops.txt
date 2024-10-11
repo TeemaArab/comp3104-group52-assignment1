@@ -6,8 +6,16 @@ continuous delivery with high software quality.
 
 #The second Commits
 
+<<<<<<< HEAD
 Key topics covered in COMP 3104 include:(Briefly)
 - Continuous Integration (CI) and Continuous Deployment (CD) pipelines
 - Version control with Git and GitHub
 - Infrastructure as Code (IaC) using tools like Docker and Kubernetes
+=======
+Key topics covered in COMP 3104 include:
+- Continuous Integration (CI) and Continuous Deployment (CD) pipelines
+- Version control with Git and GitHub
+- Infrastructure as Code (IaC) using tools like Docker and Kubernetes
+- Automation testing and monitoring tools
+>>>>>>> 91bd2e317b7284d2941f9b49ee6bec85f5e3269c
 - Cloud services for deployment
