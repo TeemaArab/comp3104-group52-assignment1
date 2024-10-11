@@ -4,3 +4,10 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 shortening the software development lifecycle and providing 
 continuous delivery with high software quality.
 
+#The second Commits
+
+Key topics covered in COMP 3104 include:(Briefly)
+- Continuous Integration (CI) and Continuous Deployment (CD) pipelines
+- Version control with Git and GitHub
+- Infrastructure as Code (IaC) using tools like Docker and Kubernetes
+- Cloud services for deployment
