@@ -1,0 +1,6 @@
+DevOps plays a crucial role in modern Software Development Lifecycle (SDLC) practices, 
+improving both efficiency and quality of software delivery. Traditionally, 
+software development and IT operations were handled separately, 
+leading to longer development cycles, miscommunication, and deployment issues. 
+DevOps bridges this gap by fostering collaboration between development and operations teams.
+
