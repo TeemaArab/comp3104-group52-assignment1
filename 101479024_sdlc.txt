@@ -4,7 +4,7 @@ software development and IT operations were handled separately,
 leading to longer development cycles, miscommunication, and deployment issues. 
 DevOps bridges this gap by fostering collaboration between development and operations teams.
 
-#The second Commits
+#The second Commit
 
 The importance of DevOps in the SDLC includes:
 - **Faster Time to Market**: DevOps practices, like continuous integration and continuous deployment 
@@ -15,7 +15,13 @@ from development to deployment.
 - **Automation and Efficiency**: Repetitive tasks such as testing, deployment, and monitoring 
 are automated, reducing human error and speeding up delivery.
 
-#The Third Commits
+#The Third Commit
 
 As software development evolves, integrating DevOps into the SDLC is essential for 
 businesses looking to maintain competitive advantage and deliver high-quality products efficiently.
+
+#The Fourth Commit
+
+Challenges Addressed by DevOps:
+“DevOps overcomes challenges like slow release cycles and poor communication, 
+enabling faster feedback and integration to reduce deployment risks.
