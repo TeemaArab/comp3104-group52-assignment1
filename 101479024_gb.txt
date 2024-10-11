@@ -15,3 +15,10 @@ George Brown College is known for its diverse student population and modern faci
 including the waterfront campus for health sciences and the Casa Loma campus for technology programs.
 
 The college plays an active role in Toronto's economy, helping to prepare students for careers in various industries.
+
+#The Fourth Commits
+
+Student life at George Brown College is vibrant and diverse, with numerous clubs, 
+organizations, and activities available. The college hosts cultural events, workshops, 
+and guest lectures that enrich the educational experience and foster a sense of community 
+among students
