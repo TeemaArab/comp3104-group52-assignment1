@@ -1,0 +1,4 @@
+ The COMP 3104 DevOps course at George Brown College focuses on the integration of development and operations to streamline the software development process. 
+ The course covers topics such as version control, continuous integration, continuous delivery, infrastructure as code, 
+ and monitoring. Students learn to use industry-standard tools like Git, Jenkins, Docker, and Kubernetes to build and maintain automated workflows for software deployment and infrastructure management.
+
