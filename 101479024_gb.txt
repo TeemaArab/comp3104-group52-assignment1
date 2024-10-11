@@ -1,3 +1,11 @@
 George Brown College is a public college of applied arts and technology located in Toronto, 
 Ontario, Canada. It was established in 1967 and is named after George Brown, 
 one of the Fathers of Confederation.
+
+#The second Commits
+
+The college offers over 160 programs, including diploma, degree, and certificate programs 
+in areas such as business, technology, arts, and health sciences. 
+It has a strong focus on experiential learning, with many programs offering field placements, 
+internships, and industry partnerships.
+
