@@ -3,8 +3,8 @@
 ## Group Members
 - **Leader:** Fatima Arab (101463256) - [GitHub](https://github.com/TeemaArab)
 - **Member 2:** Pegah Ghods Mohammadi (101479024) - [GitHub](https://github.com/pegahghm)
-- **Member 3:** Aria Koohafkan (Student ID) - [GitHub](https://github.com/TheirUsername)
-- **Member 4:** Ali Hooshmand Ghasrodashti (Student ID) - [GitHub](https://github.com/TheirUsername)
+- **Member 3:** Aria Koohafkan (101417585) - [GitHub](https://github.com/AriaKoohafkan)
+- **Member 4:** Ali Hooshmand Ghasrodashti (101261322) - [GitHub](https://github.com/Alihooshmand97)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
