@@ -1,0 +1,4 @@
+COMP3104 - DevOps is a course at George Brown College focused on the principles and practices of DevOps. The course introduces students to concepts such as version control systems, continuous integration (CI), continuous delivery (CD), and the automation of infrastructure.
+
+Students learn how to collaborate effectively in development teams, use GitHub for version control, and set up CI/CD pipelines to automate testing and deployment. The course emphasizes the importance of communication between development and operations teams and demonstrates how DevOps practices can improve software delivery and reduce deployment risks.
+
